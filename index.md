@@ -5,4 +5,6 @@ Jean-Luc Picard, gespielt von Patrick Stewart, ist der kommandierende Offizier d
 * Wesenszüge: diplomatisch versiert, taktisch unkonventionell und äußerst loyal gegenüber der Crew und dem Sternenflotten-Kommando
 * Lieblingsgetränk: Earl Grey Tee
 * Hobbies: Archäologie, Florettfechten
+## Lieblingszitat
+>Energy!
 

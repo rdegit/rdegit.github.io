@@ -8,8 +8,10 @@ Jean-Luc Picard, gespielt von Patrick Stewart, ist der kommandierende Offizier d
 
 ## Lieblingszitat
 >Energy!
-<img src="https://de.wikipedia.org/wiki/Figuren_im_Star-Trek-Universum#/media/Datei:PatrickStewart2004-08-03.jpg"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Patrick_Stewart_Head_Shot.jpg/1024px-Patrick_Stewart_Head_Shot.jpg" />
+
 Einzelheiten zur Genehmigung:
->Einzelheiten zur Genehmigung
-Gemeinfrei, Public domain, Photo Courtesy of U.S. Army[1]
+CC BY-SA 3.0
+
 
